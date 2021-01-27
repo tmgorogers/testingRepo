@@ -19,7 +19,7 @@ header h1 {
     display: inline-block;
     font-size: 48px;
 }
-
+/*--style text when the mouse move over it*/
 header h1:hover .seo  {
        color: #d9dcd6;
     
@@ -86,7 +86,7 @@ p {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #2589bd;
 }
-
+/* Combined tags together with the same function*/
 .benefit-lead .benefit-brand .benefit-cost {
     margin-bottom: 32px;
     color: #ffffff;
